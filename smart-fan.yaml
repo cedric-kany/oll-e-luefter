@@ -14,7 +14,7 @@ esphome:
   # This will allow for (future) project identification,
   # configuration and updates.
   project:
-    name: olleluefter
+    name: cedric.olleluefter
     version: "1.0"
 
 # To be able to get logs from the device via serial and api.
